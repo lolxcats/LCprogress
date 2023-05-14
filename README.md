@@ -1,8 +1,9 @@
 # LCprogress
 for future use on leetcodes problems I did and what I learned from them
 
-| id  |      Date | Problem Name | Difficulty | 
-| 1   | 5/14/2023 | TwoSum   | Easy |
+| id  |      Date | Problem Name | Difficulty
+|-----|-----------|--------------|-----------
+| 1   | 5/14/2023 | TwoSum       | Easy
 
 
 <!-- title -->
